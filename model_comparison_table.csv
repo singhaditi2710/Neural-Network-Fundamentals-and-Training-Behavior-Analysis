@@ -1,0 +1,4 @@
+Experiment Run,Hidden Layer Matrix,Learning Rate,Batch Size,Epoch Length,Final Train Accuracy,Final Test Accuracy,Final Train Loss,Final Test Loss
+Exp 1: Baseline,"[16, 8]",0.01,32,30,0.9937,0.9575,0.0156,0.1427
+Exp 2: Deep & Slow,"[32, 16, 8]",0.001,16,40,1.0000,0.9775,0.0039,0.1498
+Exp 3: Wide & High LR,[64],0.1,64,20,0.9919,0.9750,0.0202,0.1367
